@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Notater
 description: Mine notater
+github:
+  is_project_page: false
